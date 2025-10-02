@@ -1,2 +1,2 @@
 # Devops_Assignment1
-Devops Assignmentt for git commands.
+Devops Assignmentt for basic git commands.
